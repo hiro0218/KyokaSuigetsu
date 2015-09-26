@@ -29,7 +29,7 @@ KyokaSuigetsu
 <script src="kyokasuigetsu.js"></script>
 ```
 
-## Support
+## サポートブラウザ
 以下のブラウザであれば、変な動作はしないはず。
 
 * Google Chrome 4
@@ -40,9 +40,9 @@ KyokaSuigetsu
 
 ただし、上記を含め古いブラウザだと一部の機能がうまく動作しなかったりします。(今後、対応予定)
 
-## Licence
-* [MIT](https://github.com/hiro0218/KyokaSuigetsu/LICENSE)
+## ライセンス
+* [MIT](https://github.com/hiro0218/KyokaSuigetsu/blob/master/LICENSE)
 
 
-## Author
+## 作者
 * [hiro](http://b.0218.jp/)
