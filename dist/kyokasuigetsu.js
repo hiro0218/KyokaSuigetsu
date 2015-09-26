@@ -3,7 +3,7 @@
  * 画像を取得できないようにするJavaScriptライブラリ
  * Copyright (c) 2015 hiro - http://b.0218.jp/
  * This software is released under the MIT License.
- * https://github.com/hiro0218/KyokaSuigetsu/LICENSE
+ * https://github.com/hiro0218/KyokaSuigetsu/blob/master/LICENSE
  */
 
 (function (w, d) {
